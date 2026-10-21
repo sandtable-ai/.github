@@ -1,4 +1,7 @@
-## sandtable
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="lockup-dark.svg">
+  <img src="lockup.svg" width="185" height="48" alt="sandtable">
+</picture>
 
 Rehearse your AI agent on a simulated copy of your customer's world before it goes live.
 
